@@ -1,3 +1,3 @@
-[![C++ CI](https://github.com/ChicoState/FirstIO/actions/workflows/actions.yml/badge.svg)](https://github.com/ChicoState/FirstIO/actions/workflows/actions.yml)
+[![Build C++](https://github.com/klmenigoz/CSCI430_x06/actions/workflows/actions.yml/badge.svg)](https://github.com/klmenigoz/CSCI430_x06/actions/workflows/actions.yml)
 
-# First IO project
+# Simple Broken Hello World program for CI Badge Demo
